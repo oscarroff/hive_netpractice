@@ -1,5 +1,6 @@
 *This project has been created as part of the 42 curriculum by thblack-*
 # NetPractice
+May 2026
 
 ## Description
 NetPractice is a mandatory 42 school core curriculum project that is intended to introduce students to networks, specifically TCP (Transmission Control Protocol), IP addresses and subnet masks.
