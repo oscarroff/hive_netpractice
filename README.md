@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by thblack-*
+*This project has been created as part of the 42 curriculum by thblack-...*
 # NetPractice
 May 2026
 
@@ -16,7 +16,9 @@ The subnet mask is a 32 bit (4 bytes) addresses used to define which portion of 
 - A routing table is a data table stored on a router that indicates the different routes to destinations. In this project it consists of a destination (either *"default"* or a network address and CIDR mask e.g. 40.40.40.0/24) and a next step i.e. the next interface along the route.
 
 ## Instructions
-To run the trainer and evaluator open the folder `netpractice` from `net_practice.1.7.tgz` in terminal the run the command `python3 -m http.server`. Once the server is running, open the address `http://localhost:8000` in your web browser.
+To run the trainer and evaluator, extract `net_practice.1.7.tgz`, open the subfolder `netpractice` in terminal and the run the command `python3 -m http.server`. Once the server is running, browse to the address `http://localhost:8000` using your preferred web browser (known to work with Firefox and Chrome as of May 2026).
+To start training or an evaluation input a valid 42 login and click the relevant button.
+To export configurations use the button provided at the top of each task. This will create a *.json file which contains the current state of the exercise.
 
 ## Resources
 https://www.geeksforgeeks.org/computer-networks/tcp-ip-model/
